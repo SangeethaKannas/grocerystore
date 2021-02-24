@@ -13,7 +13,7 @@ export class Shop extends Component {
       <div className="container-fluid">
         <div className="row">
           <div className="col bg-dark text-white">
-            <div className="navbar-brand">SPORTS STORE</div>
+            <div className="navbar-brand">GROCERY STORE</div>
             <CartSummary {...this.props} />
           </div>
         </div>
